@@ -1,0 +1,10 @@
+p {
+  background-color: rgba(66, 225, 243, 0.585);
+  color: rgba(2, 44, 19, 0.681);
+  padding: 45px;
+  margin: 10vh;
+  border-radius: 6vh;
+  font-size: 25px;
+  text-align: center;
+  font-family: arial;
+}
